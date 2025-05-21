@@ -1,6 +1,6 @@
 # Special Functions
 
-This repository holds special functions meant be used by other projects.
+This repository wraps Fortran special functions to be used in Python.
 
 ## Functions
  * Exponential integrals Ei and E1.
